@@ -444,6 +444,7 @@ void read_it(FILE* fp){
     //read_note(fp);
 }
 
+//Èë¿Ú
 int main(int argc, char* argv[])
 {
     char soFile[] = "F:\\android-test2\\libs\\armeabi-v7a\\libmodule.so";
